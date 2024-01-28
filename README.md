@@ -8,3 +8,6 @@ http://127.0.0.1:5500/Develop/index.html
 ![Alt text](<Screen Shot 2024-01-27 at 7.55.10 PM.png>)
 /Users/tabithaledford/Documents/Development/DayPlanner/Screen Shot 2024-01-27 at 7.55.10 PM.png
 hopefully one of  these works 
+
+
+This is an application monotonously built by hour function to serve as a day planner throughout a 9-5 work day. The current time and date is displayed under the header. The current hour is in red. Past event are in grey and future events are in green. 
